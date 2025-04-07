@@ -1,0 +1,69 @@
+Processing: Trait: logTG, Target Population: AFR, Chromosome: 22, phi: auto
+
+
+--ref_dir=/gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3
+--bim_prefix=/gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal
+--sst_file=['/gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/logTG_AFR/auxiliary_pop_EUR/22_JointPRS_baselineLD_v2.3_Annot_15.txt', '/gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/logTG_AFR/22_JointPRS_baselineLD_v2.3_Annot_15.txt']
+--rho_cons=[1.0, 1.0, 1.0, 1.0, 1.0]
+--a=1
+--b=0.5
+--phi=None
+--n_gwas=[853550, 87939]
+--pop=['EUR', 'AFR']
+--n_iter=2000
+--n_burnin=1000
+--thin=5
+--out_dir=/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_15
+--out_name=logTG_EUR_AFR_PRScsx_baselineLD_v2.3_Annot_15
+--chrom=['22']
+--meta=FALSE
+--seed=None
+
+
+*** 2 discovery populations detected ***
+
+##### process chromosome 22 #####
+... parse reference file: /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... 106089 SNPs on chromosome 22 read from /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... parse bim file: /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... 178873 SNPs on chromosome 22 read from /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... parse EUR sumstats file: /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/logTG_AFR/auxiliary_pop_EUR/22_JointPRS_baselineLD_v2.3_Annot_15.txt ...
+... 24350 SNPs read from /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/logTG_AFR/auxiliary_pop_EUR/22_JointPRS_baselineLD_v2.3_Annot_15.txt ...
+... 23778 common SNPs in the EUR reference, EUR sumstats, and validation set ...
+... parse AFR sumstats file: /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/logTG_AFR/22_JointPRS_baselineLD_v2.3_Annot_15.txt ...
+... 19136 SNPs read from /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/logTG_AFR/22_JointPRS_baselineLD_v2.3_Annot_15.txt ...
+... 18654 common SNPs in the AFR reference, AFR sumstats, and validation set ...
+... parse EUR reference LD on chromosome 22 ...
+... parse AFR reference LD on chromosome 22 ...
+... align reference LD on chromosome 22 across populations ...
+... 24543 valid SNPs across populations ...
+... MCMC ...
+--- iter-100 ---
+--- iter-200 ---
+--- iter-300 ---
+--- iter-400 ---
+--- iter-500 ---
+--- iter-600 ---
+--- iter-700 ---
+--- iter-800 ---
+--- iter-900 ---
+--- iter-1000 ---
+--- iter-1100 ---
+--- iter-1200 ---
+--- iter-1300 ---
+--- iter-1400 ---
+--- iter-1500 ---
+--- iter-1600 ---
+--- iter-1700 ---
+--- iter-1800 ---
+--- iter-1900 ---
+--- iter-2000 ---
+... Estimated global shrinkage parameter: 6.96e-05 ...
+... Estimated Correlation Matrix for chrom 22 is : ...
+[[1.         0.42476458]
+ [0.42476458 1.        ]]
+... Done ...
+
+
+Job took 0.73 hours to complete.
+End of the Job.

@@ -1,0 +1,5 @@
+
+CondaError: Run 'conda init' before 'conda deactivate'
+
+Processing: Trait: HDL, Target Population: SAS, Chromosome: 4, phi: auto
+slurmstepd: error: *** JOB 49391407 ON r813u09n06 CANCELLED AT 2025-03-28T08:14:47 DUE TO TIME LIMIT ***

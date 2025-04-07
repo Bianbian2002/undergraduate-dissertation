@@ -1,0 +1,2 @@
+Processing: Trait: T2D, Target Population: EAS, Chromosome: 1, phi: auto
+slurmstepd: error: *** JOB 48815050 ON r304u10n01 CANCELLED AT 2025-03-20T06:30:15 DUE TO TIME LIMIT ***

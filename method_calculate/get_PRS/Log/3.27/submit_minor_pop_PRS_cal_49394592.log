@@ -1,0 +1,9 @@
+Processing group: group1
+Traits: logTG
+Populations: SAS AFR AMR
+There are 30 annotations selected for trait:logTG; pop:SAS
+There are 21 annotations selected for trait:logTG; pop:AFR
+There are 34 annotations selected for trait:logTG; pop:AMR
+Total number of jobs: 85
+Submitted batch job 49394595
+Submitted PRS calculation array job with 85 tasks.

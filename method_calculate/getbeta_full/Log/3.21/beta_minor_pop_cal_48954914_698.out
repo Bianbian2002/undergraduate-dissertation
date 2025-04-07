@@ -1,0 +1,69 @@
+Processing: Trait: HDL, Target Population: SAS, Chromosome: 16, phi: auto
+
+
+--ref_dir=/gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3
+--bim_prefix=/gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal
+--sst_file=['/gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/HDL_SAS/auxiliary_pop_EUR/16_JointPRS_baselineLD_v2.3_Annot_31.txt', '/gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/HDL_SAS/16_JointPRS_baselineLD_v2.3_Annot_31.txt']
+--rho_cons=[1.0, 1.0, 1.0, 1.0, 1.0]
+--a=1
+--b=0.5
+--phi=None
+--n_gwas=[875625, 33953]
+--pop=['EUR', 'SAS']
+--n_iter=2000
+--n_burnin=1000
+--thin=5
+--out_dir=/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_31
+--out_name=HDL_EUR_SAS_PRScsx_baselineLD_v2.3_Annot_31
+--chrom=['16']
+--meta=FALSE
+--seed=None
+
+
+*** 2 discovery populations detected ***
+
+##### process chromosome 16 #####
+... parse reference file: /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... 229943 SNPs on chromosome 16 read from /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... parse bim file: /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... 415006 SNPs on chromosome 16 read from /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... parse EUR sumstats file: /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/HDL_SAS/auxiliary_pop_EUR/16_JointPRS_baselineLD_v2.3_Annot_31.txt ...
+... 5270 SNPs read from /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/HDL_SAS/auxiliary_pop_EUR/16_JointPRS_baselineLD_v2.3_Annot_31.txt ...
+... 5191 common SNPs in the EUR reference, EUR sumstats, and validation set ...
+... parse SAS sumstats file: /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/HDL_SAS/16_JointPRS_baselineLD_v2.3_Annot_31.txt ...
+... 4280 SNPs read from /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/HDL_SAS/16_JointPRS_baselineLD_v2.3_Annot_31.txt ...
+... 4168 common SNPs in the SAS reference, SAS sumstats, and validation set ...
+... parse EUR reference LD on chromosome 16 ...
+... parse SAS reference LD on chromosome 16 ...
+... align reference LD on chromosome 16 across populations ...
+... 5296 valid SNPs across populations ...
+... MCMC ...
+--- iter-100 ---
+--- iter-200 ---
+--- iter-300 ---
+--- iter-400 ---
+--- iter-500 ---
+--- iter-600 ---
+--- iter-700 ---
+--- iter-800 ---
+--- iter-900 ---
+--- iter-1000 ---
+--- iter-1100 ---
+--- iter-1200 ---
+--- iter-1300 ---
+--- iter-1400 ---
+--- iter-1500 ---
+--- iter-1600 ---
+--- iter-1700 ---
+--- iter-1800 ---
+--- iter-1900 ---
+--- iter-2000 ---
+... Estimated global shrinkage parameter: 1.68e-03 ...
+... Estimated Correlation Matrix for chrom 16 is : ...
+[[1.        0.2986389]
+ [0.2986389 1.       ]]
+... Done ...
+
+
+Job took 0.12 hours to complete.
+End of the Job.

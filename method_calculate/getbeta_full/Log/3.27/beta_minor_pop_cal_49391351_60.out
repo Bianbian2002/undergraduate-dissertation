@@ -1,0 +1,5 @@
+
+CondaError: Run 'conda init' before 'conda deactivate'
+
+Processing: Trait: logTG, Target Population: EAS, Chromosome: 4, phi: auto
+slurmstepd: error: *** JOB 49391351 ON r813u09n12 CANCELLED AT 2025-03-28T08:14:47 DUE TO TIME LIMIT ***

@@ -1,0 +1,69 @@
+Processing: Trait: HDL, Target Population: AMR, Chromosome: 5, phi: auto
+
+
+--ref_dir=/gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3
+--bim_prefix=/gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal
+--sst_file=['/gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/HDL_AMR/auxiliary_pop_EUR/5_JointPRS_baselineLD_v2.3_Annot_4.txt', '/gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/HDL_AMR/5_JointPRS_baselineLD_v2.3_Annot_4.txt']
+--rho_cons=[1.0, 1.0, 1.0, 1.0, 1.0]
+--a=1
+--b=0.5
+--phi=None
+--n_gwas=[875625, 39602]
+--pop=['EUR', 'AMR']
+--n_iter=2000
+--n_burnin=1000
+--thin=5
+--out_dir=/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_4
+--out_name=HDL_EUR_AMR_PRScsx_baselineLD_v2.3_Annot_4
+--chrom=['5']
+--meta=FALSE
+--seed=None
+
+
+*** 2 discovery populations detected ***
+
+##### process chromosome 5 #####
+... parse reference file: /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... 481978 SNPs on chromosome 5 read from /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... parse bim file: /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... 869351 SNPs on chromosome 5 read from /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... parse EUR sumstats file: /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/HDL_AMR/auxiliary_pop_EUR/5_JointPRS_baselineLD_v2.3_Annot_4.txt ...
+... 154198 SNPs read from /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/HDL_AMR/auxiliary_pop_EUR/5_JointPRS_baselineLD_v2.3_Annot_4.txt ...
+... 152259 common SNPs in the EUR reference, EUR sumstats, and validation set ...
+... parse AMR sumstats file: /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/HDL_AMR/5_JointPRS_baselineLD_v2.3_Annot_4.txt ...
+... 141812 SNPs read from /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BaselineLD_v2.3_hm3/HDL_AMR/5_JointPRS_baselineLD_v2.3_Annot_4.txt ...
+... 139919 common SNPs in the AMR reference, AMR sumstats, and validation set ...
+... parse EUR reference LD on chromosome 5 ...
+... parse AMR reference LD on chromosome 5 ...
+... align reference LD on chromosome 5 across populations ...
+... 156801 valid SNPs across populations ...
+... MCMC ...
+--- iter-100 ---
+--- iter-200 ---
+--- iter-300 ---
+--- iter-400 ---
+--- iter-500 ---
+--- iter-600 ---
+--- iter-700 ---
+--- iter-800 ---
+--- iter-900 ---
+--- iter-1000 ---
+--- iter-1100 ---
+--- iter-1200 ---
+--- iter-1300 ---
+--- iter-1400 ---
+--- iter-1500 ---
+--- iter-1600 ---
+--- iter-1700 ---
+--- iter-1800 ---
+--- iter-1900 ---
+--- iter-2000 ---
+... Estimated global shrinkage parameter: 5.75e-05 ...
+... Estimated Correlation Matrix for chrom 5 is : ...
+[[1.         0.29216719]
+ [0.29216719 1.        ]]
+... Done ...
+
+
+Job took 10.22 hours to complete.
+End of the Job.

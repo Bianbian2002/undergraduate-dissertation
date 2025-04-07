@@ -1,0 +1,457 @@
+Processing group: group1
+Traits: HDL LDL TC logTG
+Populations: EAS SAS AFR AMR
+There are 1 annotations selected for trait:HDL; pop:EAS
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_EAS/baselineLD_v2.3_Annot_1/HDL_EAS_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+There are 65 annotations selected for trait:HDL; pop:SAS
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_1/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_2/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_3/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_4/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_5/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_5_SAS_pst_eff_a1_b0.5_phiauto_chr3.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_5/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_6/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_7/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_8/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_9/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_10/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_11/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_11_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_12/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_12_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_13/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_13_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_14/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_14_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_15/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_15_SAS_pst_eff_a1_b0.5_phiauto_chr3.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_15/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_15_SAS_pst_eff_a1_b0.5_phiauto_chr4.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_15/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_15_SAS_pst_eff_a1_b0.5_phiauto_chr5.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_15/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_15_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_16/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_16_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_17/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_17_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_18/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_18_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_19/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_19_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_20/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_20_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_21/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_21_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_22/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_22_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_23/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_23_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_24/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_24_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_25/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_25_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_26/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_26_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_27/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_27_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_28/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_28_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_29/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_29_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_30/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_30_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_31/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_31_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_32/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_32_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_33/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_33_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_34/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_34_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_35/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_35_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_36/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_36_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_37/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_37_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_38/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_38_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_39/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_39_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_40/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_40_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_41/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_41_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_42/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_42_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_43/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_43_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_44/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_44_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_45/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_45_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_46/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_46_SAS_pst_eff_a1_b0.5_phiauto_chr3.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_46/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_46_SAS_pst_eff_a1_b0.5_phiauto_chr4.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_46/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_46_SAS_pst_eff_a1_b0.5_phiauto_chr11.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_46/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_46_SAS_pst_eff_a1_b0.5_phiauto_chr12.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_46/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_46_SAS_pst_eff_a1_b0.5_phiauto_chr13.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_46/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_46_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_47/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_47_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_48/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_48_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_49/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_49_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_50/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_50_SAS_pst_eff_a1_b0.5_phiauto_chr3.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_50/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_50_SAS_pst_eff_a1_b0.5_phiauto_chr4.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_50/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_50_SAS_pst_eff_a1_b0.5_phiauto_chr5.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_50/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_50_SAS_pst_eff_a1_b0.5_phiauto_chr6.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_50/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_50_SAS_pst_eff_a1_b0.5_phiauto_chr7.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_50/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_50_SAS_pst_eff_a1_b0.5_phiauto_chr8.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_50/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_50_SAS_pst_eff_a1_b0.5_phiauto_chr9.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_50/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_50_SAS_pst_eff_a1_b0.5_phiauto_chr10.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_50/HDL_EUR_SAS_JointPRS_baselineLD_v2.3_Annot_50_SAS_pst_eff_a1_b0.5_phiauto_chr11.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_50/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_50_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_51/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_51_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_52/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_52_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_53/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_53_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_54/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_54_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_55/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_55_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_56/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_56_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_57/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_57_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_58/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_58_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_59/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_59_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_60/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_60_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_61/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_61_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_62/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_62_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_63/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_63_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_64/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_64_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_SAS/baselineLD_v2.3_Annot_65/HDL_SAS_JointPRS_baselineLD_v2.3_Annot_65_combined.txt
+There are 5 annotations selected for trait:HDL; pop:AFR
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AFR/baselineLD_v2.3_Annot_1/HDL_AFR_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AFR/baselineLD_v2.3_Annot_2/HDL_EUR_AFR_JointPRS_baselineLD_v2.3_Annot_2_AFR_pst_eff_a1_b0.5_phiauto_chr3.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AFR/baselineLD_v2.3_Annot_2/HDL_AFR_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AFR/baselineLD_v2.3_Annot_3/HDL_AFR_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AFR/baselineLD_v2.3_Annot_4/HDL_AFR_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AFR/baselineLD_v2.3_Annot_5/HDL_EUR_AFR_JointPRS_baselineLD_v2.3_Annot_5_AFR_pst_eff_a1_b0.5_phiauto_chr4.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AFR/baselineLD_v2.3_Annot_5/HDL_EUR_AFR_JointPRS_baselineLD_v2.3_Annot_5_AFR_pst_eff_a1_b0.5_phiauto_chr5.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AFR/baselineLD_v2.3_Annot_5/HDL_EUR_AFR_JointPRS_baselineLD_v2.3_Annot_5_AFR_pst_eff_a1_b0.5_phiauto_chr6.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AFR/baselineLD_v2.3_Annot_5/HDL_AFR_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+There are 19 annotations selected for trait:HDL; pop:AMR
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_1/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_2/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_2_AMR_pst_eff_a1_b0.5_phiauto_chr3.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_2/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_2_AMR_pst_eff_a1_b0.5_phiauto_chr6.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_2/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_2_AMR_pst_eff_a1_b0.5_phiauto_chr10.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_2/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_2_AMR_pst_eff_a1_b0.5_phiauto_chr11.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_2/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_2_AMR_pst_eff_a1_b0.5_phiauto_chr17.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_2/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_3/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_4/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_4_AMR_pst_eff_a1_b0.5_phiauto_chr6.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_4/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_4_AMR_pst_eff_a1_b0.5_phiauto_chr11.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_4/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_4_AMR_pst_eff_a1_b0.5_phiauto_chr17.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_4/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_5/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_6/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_7/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_7_AMR_pst_eff_a1_b0.5_phiauto_chr2.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_7/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_7_AMR_pst_eff_a1_b0.5_phiauto_chr6.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_7/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_7_AMR_pst_eff_a1_b0.5_phiauto_chr7.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_7/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_8/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_8_AMR_pst_eff_a1_b0.5_phiauto_chr1.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_8/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_8_AMR_pst_eff_a1_b0.5_phiauto_chr2.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_8/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_9/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_9_AMR_pst_eff_a1_b0.5_phiauto_chr1.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_9/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_9_AMR_pst_eff_a1_b0.5_phiauto_chr2.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_9/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_10/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_10_AMR_pst_eff_a1_b0.5_phiauto_chr1.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_10/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_10_AMR_pst_eff_a1_b0.5_phiauto_chr2.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_10/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_11/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_11_AMR_pst_eff_a1_b0.5_phiauto_chr1.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_11/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_11_AMR_pst_eff_a1_b0.5_phiauto_chr2.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_11/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_11_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_12/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_12_AMR_pst_eff_a1_b0.5_phiauto_chr1.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_12/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_12_AMR_pst_eff_a1_b0.5_phiauto_chr2.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_12/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_12_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_13/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_13_AMR_pst_eff_a1_b0.5_phiauto_chr1.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_13/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_13_AMR_pst_eff_a1_b0.5_phiauto_chr2.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_13/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_13_AMR_pst_eff_a1_b0.5_phiauto_chr3.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_13/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_13_AMR_pst_eff_a1_b0.5_phiauto_chr6.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_13/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_13_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_14/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_14_AMR_pst_eff_a1_b0.5_phiauto_chr1.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_14/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_14_AMR_pst_eff_a1_b0.5_phiauto_chr2.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_14/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_14_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_15/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_15_AMR_pst_eff_a1_b0.5_phiauto_chr1.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_15/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_15_AMR_pst_eff_a1_b0.5_phiauto_chr2.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_15/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_15_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_16/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_16_AMR_pst_eff_a1_b0.5_phiauto_chr1.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_16/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_16_AMR_pst_eff_a1_b0.5_phiauto_chr2.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_16/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_16_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_17/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_17_AMR_pst_eff_a1_b0.5_phiauto_chr1.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_17/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_17_AMR_pst_eff_a1_b0.5_phiauto_chr2.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_17/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_17_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_18/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_18_AMR_pst_eff_a1_b0.5_phiauto_chr1.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_18/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_18_AMR_pst_eff_a1_b0.5_phiauto_chr2.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_18/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_18_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_19/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_19_AMR_pst_eff_a1_b0.5_phiauto_chr1.txt' for reading: No such file or directory
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_19/HDL_EUR_AMR_JointPRS_baselineLD_v2.3_Annot_19_AMR_pst_eff_a1_b0.5_phiauto_chr2.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_HDL/tar_AMR/baselineLD_v2.3_Annot_19/HDL_AMR_JointPRS_baselineLD_v2.3_Annot_19_combined.txt
+There are 6 annotations selected for trait:LDL; pop:EAS
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_EAS/baselineLD_v2.3_Annot_1/LDL_EAS_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_EAS/baselineLD_v2.3_Annot_2/LDL_EAS_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_EAS/baselineLD_v2.3_Annot_3/LDL_EAS_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_EAS/baselineLD_v2.3_Annot_4/LDL_EAS_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_EAS/baselineLD_v2.3_Annot_5/LDL_EAS_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_EAS/baselineLD_v2.3_Annot_6/LDL_EAS_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+There are 14 annotations selected for trait:LDL; pop:SAS
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_SAS/baselineLD_v2.3_Annot_1/LDL_SAS_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_SAS/baselineLD_v2.3_Annot_2/LDL_SAS_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_SAS/baselineLD_v2.3_Annot_3/LDL_SAS_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_SAS/baselineLD_v2.3_Annot_4/LDL_SAS_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_SAS/baselineLD_v2.3_Annot_5/LDL_SAS_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_SAS/baselineLD_v2.3_Annot_6/LDL_SAS_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_SAS/baselineLD_v2.3_Annot_7/LDL_SAS_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_SAS/baselineLD_v2.3_Annot_8/LDL_SAS_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_SAS/baselineLD_v2.3_Annot_9/LDL_SAS_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_SAS/baselineLD_v2.3_Annot_10/LDL_SAS_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_SAS/baselineLD_v2.3_Annot_11/LDL_SAS_JointPRS_baselineLD_v2.3_Annot_11_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_SAS/baselineLD_v2.3_Annot_12/LDL_SAS_JointPRS_baselineLD_v2.3_Annot_12_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_SAS/baselineLD_v2.3_Annot_13/LDL_SAS_JointPRS_baselineLD_v2.3_Annot_13_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_SAS/baselineLD_v2.3_Annot_14/LDL_SAS_JointPRS_baselineLD_v2.3_Annot_14_combined.txt
+There are 10 annotations selected for trait:LDL; pop:AFR
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AFR/baselineLD_v2.3_Annot_1/LDL_AFR_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AFR/baselineLD_v2.3_Annot_2/LDL_AFR_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AFR/baselineLD_v2.3_Annot_3/LDL_AFR_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AFR/baselineLD_v2.3_Annot_4/LDL_AFR_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AFR/baselineLD_v2.3_Annot_5/LDL_AFR_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AFR/baselineLD_v2.3_Annot_6/LDL_AFR_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AFR/baselineLD_v2.3_Annot_7/LDL_AFR_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AFR/baselineLD_v2.3_Annot_8/LDL_AFR_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AFR/baselineLD_v2.3_Annot_9/LDL_AFR_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AFR/baselineLD_v2.3_Annot_10/LDL_AFR_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+There are 6 annotations selected for trait:LDL; pop:AMR
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AMR/baselineLD_v2.3_Annot_1/LDL_AMR_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AMR/baselineLD_v2.3_Annot_2/LDL_AMR_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AMR/baselineLD_v2.3_Annot_3/LDL_AMR_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AMR/baselineLD_v2.3_Annot_4/LDL_AMR_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AMR/baselineLD_v2.3_Annot_5/LDL_AMR_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_LDL/tar_AMR/baselineLD_v2.3_Annot_6/LDL_AMR_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+There are 10 annotations selected for trait:TC; pop:EAS
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_EAS/baselineLD_v2.3_Annot_1/TC_EAS_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_EAS/baselineLD_v2.3_Annot_2/TC_EAS_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_EAS/baselineLD_v2.3_Annot_3/TC_EAS_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_EAS/baselineLD_v2.3_Annot_4/TC_EAS_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_EAS/baselineLD_v2.3_Annot_5/TC_EAS_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_EAS/baselineLD_v2.3_Annot_6/TC_EAS_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_EAS/baselineLD_v2.3_Annot_7/TC_EAS_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_EAS/baselineLD_v2.3_Annot_8/TC_EAS_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_EAS/baselineLD_v2.3_Annot_9/TC_EAS_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_EAS/baselineLD_v2.3_Annot_10/TC_EAS_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+There are 11 annotations selected for trait:TC; pop:SAS
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_SAS/baselineLD_v2.3_Annot_1/TC_SAS_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_SAS/baselineLD_v2.3_Annot_2/TC_SAS_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_SAS/baselineLD_v2.3_Annot_3/TC_SAS_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_SAS/baselineLD_v2.3_Annot_4/TC_SAS_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_SAS/baselineLD_v2.3_Annot_5/TC_SAS_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_SAS/baselineLD_v2.3_Annot_6/TC_SAS_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_SAS/baselineLD_v2.3_Annot_7/TC_SAS_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_SAS/baselineLD_v2.3_Annot_8/TC_SAS_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_SAS/baselineLD_v2.3_Annot_9/TC_SAS_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_SAS/baselineLD_v2.3_Annot_10/TC_SAS_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_SAS/baselineLD_v2.3_Annot_11/TC_SAS_JointPRS_baselineLD_v2.3_Annot_11_combined.txt
+There are 9 annotations selected for trait:TC; pop:AFR
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AFR/baselineLD_v2.3_Annot_1/TC_AFR_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AFR/baselineLD_v2.3_Annot_2/TC_AFR_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AFR/baselineLD_v2.3_Annot_3/TC_AFR_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AFR/baselineLD_v2.3_Annot_4/TC_AFR_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AFR/baselineLD_v2.3_Annot_5/TC_AFR_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AFR/baselineLD_v2.3_Annot_6/TC_AFR_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AFR/baselineLD_v2.3_Annot_7/TC_AFR_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AFR/baselineLD_v2.3_Annot_8/TC_AFR_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AFR/baselineLD_v2.3_Annot_9/TC_AFR_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+There are 27 annotations selected for trait:TC; pop:AMR
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_1/TC_AMR_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_2/TC_AMR_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_3/TC_AMR_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_4/TC_AMR_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_5/TC_AMR_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_6/TC_AMR_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_7/TC_AMR_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_8/TC_AMR_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_9/TC_AMR_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_10/TC_AMR_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_11/TC_AMR_JointPRS_baselineLD_v2.3_Annot_11_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_12/TC_AMR_JointPRS_baselineLD_v2.3_Annot_12_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_13/TC_AMR_JointPRS_baselineLD_v2.3_Annot_13_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_14/TC_AMR_JointPRS_baselineLD_v2.3_Annot_14_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_15/TC_AMR_JointPRS_baselineLD_v2.3_Annot_15_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_16/TC_AMR_JointPRS_baselineLD_v2.3_Annot_16_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_17/TC_AMR_JointPRS_baselineLD_v2.3_Annot_17_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_18/TC_AMR_JointPRS_baselineLD_v2.3_Annot_18_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_19/TC_AMR_JointPRS_baselineLD_v2.3_Annot_19_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_20/TC_AMR_JointPRS_baselineLD_v2.3_Annot_20_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_21/TC_AMR_JointPRS_baselineLD_v2.3_Annot_21_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_22/TC_AMR_JointPRS_baselineLD_v2.3_Annot_22_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_23/TC_AMR_JointPRS_baselineLD_v2.3_Annot_23_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_24/TC_AMR_JointPRS_baselineLD_v2.3_Annot_24_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_25/TC_AMR_JointPRS_baselineLD_v2.3_Annot_25_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_26/TC_AMR_JointPRS_baselineLD_v2.3_Annot_26_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_TC/tar_AMR/baselineLD_v2.3_Annot_27/TC_AMR_JointPRS_baselineLD_v2.3_Annot_27_combined.txt
+There are 19 annotations selected for trait:logTG; pop:EAS
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_1/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_2/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_3/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_4/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_5/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_6/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_7/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_8/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_9/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_10/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_11/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_11_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_12/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_12_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_13/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_13_combined.txt
+tail: cannot open '/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_14/logTG_EUR_EAS_JointPRS_baselineLD_v2.3_Annot_14_EAS_pst_eff_a1_b0.5_phiauto_chr4.txt' for reading: No such file or directory
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_14/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_14_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_15/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_15_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_16/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_16_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_17/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_17_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_18/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_18_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_EAS/baselineLD_v2.3_Annot_19/logTG_EAS_JointPRS_baselineLD_v2.3_Annot_19_combined.txt
+There are 30 annotations selected for trait:logTG; pop:SAS
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_1/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_2/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_3/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_4/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_5/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_6/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_7/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_8/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_9/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_10/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_11/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_11_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_12/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_12_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_13/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_13_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_14/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_14_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_15/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_15_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_16/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_16_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_17/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_17_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_18/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_18_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_19/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_19_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_20/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_20_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_21/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_21_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_22/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_22_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_23/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_23_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_24/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_24_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_25/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_25_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_26/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_26_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_27/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_27_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_28/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_28_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_29/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_29_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_SAS/baselineLD_v2.3_Annot_30/logTG_SAS_JointPRS_baselineLD_v2.3_Annot_30_combined.txt
+There are 21 annotations selected for trait:logTG; pop:AFR
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_1/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_2/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_3/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_4/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_5/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_6/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_7/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_8/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_9/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_10/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_11/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_11_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_12/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_12_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_13/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_13_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_14/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_14_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_15/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_15_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_16/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_16_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_17/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_17_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_18/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_18_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_19/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_19_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_20/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_20_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AFR/baselineLD_v2.3_Annot_21/logTG_AFR_JointPRS_baselineLD_v2.3_Annot_21_combined.txt
+There are 34 annotations selected for trait:logTG; pop:AMR
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_1/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_2/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_3/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_4/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_5/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_6/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_7/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_8/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_9/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_10/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_11/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_11_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_12/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_12_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_13/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_13_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_14/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_14_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_15/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_15_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_16/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_16_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_17/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_17_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_18/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_18_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_19/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_19_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_20/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_20_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_21/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_21_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_22/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_22_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_23/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_23_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_24/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_24_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_25/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_25_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_26/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_26_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_27/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_27_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_28/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_28_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_29/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_29_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_30/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_30_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_31/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_31_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_32/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_32_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_33/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_33_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_logTG/tar_AMR/baselineLD_v2.3_Annot_34/logTG_AMR_JointPRS_baselineLD_v2.3_Annot_34_combined.txt
+Processing group: group2
+Traits: Height BMI T2D BrC
+Populations: EAS AFR
+There are 3 annotations selected for trait:Height; pop:EAS
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_Height/tar_EAS/baselineLD_v2.3_Annot_1/Height_EAS_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_Height/tar_EAS/baselineLD_v2.3_Annot_2/Height_EAS_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_Height/tar_EAS/baselineLD_v2.3_Annot_3/Height_EAS_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+There are 12 annotations selected for trait:Height; pop:AFR
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_Height/tar_AFR/baselineLD_v2.3_Annot_1/Height_AFR_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_Height/tar_AFR/baselineLD_v2.3_Annot_2/Height_AFR_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_Height/tar_AFR/baselineLD_v2.3_Annot_3/Height_AFR_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_Height/tar_AFR/baselineLD_v2.3_Annot_4/Height_AFR_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_Height/tar_AFR/baselineLD_v2.3_Annot_5/Height_AFR_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_Height/tar_AFR/baselineLD_v2.3_Annot_6/Height_AFR_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_Height/tar_AFR/baselineLD_v2.3_Annot_7/Height_AFR_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_Height/tar_AFR/baselineLD_v2.3_Annot_8/Height_AFR_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_Height/tar_AFR/baselineLD_v2.3_Annot_9/Height_AFR_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_Height/tar_AFR/baselineLD_v2.3_Annot_10/Height_AFR_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_Height/tar_AFR/baselineLD_v2.3_Annot_11/Height_AFR_JointPRS_baselineLD_v2.3_Annot_11_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_Height/tar_AFR/baselineLD_v2.3_Annot_12/Height_AFR_JointPRS_baselineLD_v2.3_Annot_12_combined.txt
+There are 2 annotations selected for trait:BMI; pop:EAS
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_EAS/baselineLD_v2.3_Annot_1/BMI_EAS_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_EAS/baselineLD_v2.3_Annot_2/BMI_EAS_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+There are 18 annotations selected for trait:BMI; pop:AFR
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_1/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_2/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_3/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_4/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_5/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_6/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_7/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_8/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_9/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_10/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_11/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_11_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_12/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_12_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_13/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_13_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_14/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_14_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_15/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_15_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_16/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_16_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_17/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_17_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BMI/tar_AFR/baselineLD_v2.3_Annot_18/BMI_AFR_JointPRS_baselineLD_v2.3_Annot_18_combined.txt
+There are 10 annotations selected for trait:T2D; pop:EAS
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_EAS/baselineLD_v2.3_Annot_1/T2D_EAS_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_EAS/baselineLD_v2.3_Annot_2/T2D_EAS_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_EAS/baselineLD_v2.3_Annot_3/T2D_EAS_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_EAS/baselineLD_v2.3_Annot_4/T2D_EAS_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_EAS/baselineLD_v2.3_Annot_5/T2D_EAS_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_EAS/baselineLD_v2.3_Annot_6/T2D_EAS_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_EAS/baselineLD_v2.3_Annot_7/T2D_EAS_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_EAS/baselineLD_v2.3_Annot_8/T2D_EAS_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_EAS/baselineLD_v2.3_Annot_9/T2D_EAS_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_EAS/baselineLD_v2.3_Annot_10/T2D_EAS_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+There are 13 annotations selected for trait:T2D; pop:AFR
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_AFR/baselineLD_v2.3_Annot_1/T2D_AFR_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_AFR/baselineLD_v2.3_Annot_2/T2D_AFR_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_AFR/baselineLD_v2.3_Annot_3/T2D_AFR_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_AFR/baselineLD_v2.3_Annot_4/T2D_AFR_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_AFR/baselineLD_v2.3_Annot_5/T2D_AFR_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_AFR/baselineLD_v2.3_Annot_6/T2D_AFR_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_AFR/baselineLD_v2.3_Annot_7/T2D_AFR_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_AFR/baselineLD_v2.3_Annot_8/T2D_AFR_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_AFR/baselineLD_v2.3_Annot_9/T2D_AFR_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_AFR/baselineLD_v2.3_Annot_10/T2D_AFR_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_AFR/baselineLD_v2.3_Annot_11/T2D_AFR_JointPRS_baselineLD_v2.3_Annot_11_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_AFR/baselineLD_v2.3_Annot_12/T2D_AFR_JointPRS_baselineLD_v2.3_Annot_12_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_T2D/tar_AFR/baselineLD_v2.3_Annot_13/T2D_AFR_JointPRS_baselineLD_v2.3_Annot_13_combined.txt
+There are 18 annotations selected for trait:BrC; pop:EAS
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_1/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_2/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_3/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_4/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_4_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_5/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_5_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_6/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_6_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_7/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_7_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_8/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_8_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_9/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_9_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_10/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_10_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_11/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_11_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_12/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_12_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_13/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_13_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_14/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_14_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_15/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_15_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_16/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_16_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_17/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_17_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_18/BrC_EAS_JointPRS_baselineLD_v2.3_Annot_18_combined.txt
+There are 3 annotations selected for trait:BrC; pop:AFR
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_AFR/baselineLD_v2.3_Annot_1/BrC_AFR_JointPRS_baselineLD_v2.3_Annot_1_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_AFR/baselineLD_v2.3_Annot_2/BrC_AFR_JointPRS_baselineLD_v2.3_Annot_2_combined.txt
+Combined file created: /gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta_collect/LD_v2.3_panel/trait_BrC/tar_AFR/baselineLD_v2.3_Annot_3/BrC_AFR_JointPRS_baselineLD_v2.3_Annot_3_combined.txt
+All files have been combined.

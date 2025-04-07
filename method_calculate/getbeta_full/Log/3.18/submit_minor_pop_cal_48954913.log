@@ -1,0 +1,10 @@
+Processing group: group1
+Traits: HDL
+Populations: EAS SAS AFR AMR
+There are 1 annotations selected for trait:HDL; pop:EAS
+There are 65 annotations selected for trait:HDL; pop:SAS
+There are 5 annotations selected for trait:HDL; pop:AFR
+There are 19 annotations selected for trait:HDL; pop:AMR
+Total number of jobs: 1980
+Submitted batch job 48954914
+Submitted beta calculation array job with 1980 tasks.

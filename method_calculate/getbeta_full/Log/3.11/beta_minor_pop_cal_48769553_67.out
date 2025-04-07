@@ -1,0 +1,2 @@
+Processing: Trait: HDL, Target Population: SAS, Chromosome: 1, phi: auto
+slurmstepd: error: *** JOB 48769632 ON r102u01n01 CANCELLED AT 2025-03-18T23:02:32 DUE TO TIME LIMIT ***

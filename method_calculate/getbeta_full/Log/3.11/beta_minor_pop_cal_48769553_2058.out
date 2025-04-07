@@ -1,0 +1,69 @@
+Processing: Trait: LDL, Target Population: EAS, Chromosome: 12, phi: auto
+
+
+--ref_dir=/gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3
+--bim_prefix=/gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal
+--sst_file=['/gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/LDL_EAS/auxiliary_pop_EUR/12_JointPRS_baselineLD_v2.3_Annot_4.txt', '/gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/LDL_EAS/12_JointPRS_baselineLD_v2.3_Annot_4.txt']
+--rho_cons=[1.0, 1.0, 1.0, 1.0, 1.0]
+--a=1
+--b=0.5
+--phi=None
+--n_gwas=[832800, 81417]
+--pop=['EUR', 'EAS']
+--n_iter=2000
+--n_burnin=1000
+--thin=5
+--out_dir=/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_LDL/tar_EAS/baselineLD_v2.3_Annot_4
+--out_name=LDL_EUR_EAS_PRScsx_baselineLD_v2.3_Annot_4
+--chrom=['12']
+--meta=FALSE
+--seed=None
+
+
+*** 2 discovery populations detected ***
+
+##### process chromosome 12 #####
+... parse reference file: /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... 359455 SNPs on chromosome 12 read from /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... parse bim file: /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... 629506 SNPs on chromosome 12 read from /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... parse EUR sumstats file: /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/LDL_EAS/auxiliary_pop_EUR/12_JointPRS_baselineLD_v2.3_Annot_4.txt ...
+... 333187 SNPs read from /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/LDL_EAS/auxiliary_pop_EUR/12_JointPRS_baselineLD_v2.3_Annot_4.txt ...
+... 92192 common SNPs in the EUR reference, EUR sumstats, and validation set ...
+... parse EAS sumstats file: /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/LDL_EAS/12_JointPRS_baselineLD_v2.3_Annot_4.txt ...
+... 212421 SNPs read from /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/LDL_EAS/12_JointPRS_baselineLD_v2.3_Annot_4.txt ...
+... 62384 common SNPs in the EAS reference, EAS sumstats, and validation set ...
+... parse EUR reference LD on chromosome 12 ...
+... parse EAS reference LD on chromosome 12 ...
+... align reference LD on chromosome 12 across populations ...
+... 93895 valid SNPs across populations ...
+... MCMC ...
+--- iter-100 ---
+--- iter-200 ---
+--- iter-300 ---
+--- iter-400 ---
+--- iter-500 ---
+--- iter-600 ---
+--- iter-700 ---
+--- iter-800 ---
+--- iter-900 ---
+--- iter-1000 ---
+--- iter-1100 ---
+--- iter-1200 ---
+--- iter-1300 ---
+--- iter-1400 ---
+--- iter-1500 ---
+--- iter-1600 ---
+--- iter-1700 ---
+--- iter-1800 ---
+--- iter-1900 ---
+--- iter-2000 ---
+... Estimated global shrinkage parameter: 5.73e-05 ...
+... Estimated Correlation Matrix for chrom 12 is : ...
+[[1.         0.40768987]
+ [0.40768987 1.        ]]
+... Done ...
+
+
+Job took 4.66 hours to complete.
+End of the Job.

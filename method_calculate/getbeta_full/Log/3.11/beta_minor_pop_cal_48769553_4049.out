@@ -1,0 +1,2 @@
+Processing: Trait: logTG, Target Population: EAS, Chromosome: 1, phi: auto
+slurmstepd: error: *** JOB 48786401 ON r105u04n01 CANCELLED AT 2025-03-19T15:12:59 DUE TO TIME LIMIT ***

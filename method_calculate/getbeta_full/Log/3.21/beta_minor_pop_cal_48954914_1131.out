@@ -1,0 +1,4 @@
+Processing: Trait: HDL, Target Population: SAS, Chromosome: 1, phi: auto
+Current partition: scavenge and time:  are not suitable for chr 1.
+Canceling original job (48957269) and resubmitting with correct parameters...
+slurmstepd: error: *** JOB 48957269 ON r814u23n06 CANCELLED AT 2025-03-21T00:59:10 ***

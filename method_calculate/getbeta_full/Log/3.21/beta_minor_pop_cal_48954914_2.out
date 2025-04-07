@@ -1,0 +1,4 @@
+Processing: Trait: HDL, Target Population: EAS, Chromosome: 2, phi: auto
+Current partition: day and time:  are not suitable for chr 2.
+Canceling original job (48954916) and resubmitting with correct parameters...
+slurmstepd: error: *** JOB 48954916 ON r813u03n01 CANCELLED AT 2025-03-21T00:48:11 ***

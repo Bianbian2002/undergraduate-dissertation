@@ -1,0 +1,54 @@
+Processing: Trait: BMI, Target Population: EUR, Chromosome: 2, phi: auto
+
+
+--ref_dir=/gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3
+--bim_prefix=/gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal
+--sst_file=['/gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BMI_EUR/2_JointPRS_baselineLD_v2.3_Annot_2.txt']
+--rho_cons=[1.0, 1.0, 1.0, 1.0, 1.0]
+--a=1
+--b=0.5
+--phi=None
+--n_gwas=[233634]
+--pop=['EUR']
+--n_iter=1000
+--n_burnin=500
+--thin=5
+--out_dir=/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_BMI/tar_EUR/baselineLD_v2.3_Annot_2
+--out_name=BMI_EUR_JointPRS_baselineLD_v2.3_Annot_2
+--chrom=['2']
+--meta=FALSE
+--seed=None
+
+
+*** only 1 discovery population detected ***
+
+##### process chromosome 2 #####
+... parse reference file: /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... 633226 SNPs on chromosome 2 read from /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... parse bim file: /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... 1129094 SNPs on chromosome 2 read from /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... parse EUR sumstats file: /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BMI_EUR/2_JointPRS_baselineLD_v2.3_Annot_2.txt ...
+... 62131 SNPs read from /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BMI_EUR/2_JointPRS_baselineLD_v2.3_Annot_2.txt ...
+... 61922 common SNPs in the EUR reference, EUR sumstats, and validation set ...
+... parse EUR reference LD on chromosome 2 ...
+... align reference LD on chromosome 2 across populations ...
+... 61922 valid SNPs across populations ...
+... MCMC ...
+--- iter-100 ---
+--- iter-200 ---
+--- iter-300 ---
+--- iter-400 ---
+--- iter-500 ---
+--- iter-600 ---
+--- iter-700 ---
+--- iter-800 ---
+--- iter-900 ---
+--- iter-1000 ---
+... Estimated global shrinkage parameter: 9.88e-05 ...
+... Estimated Correlation Matrix for chrom 2 is : ...
+[[1.]]
+... Done ...
+
+
+Job took 0.89 hours to complete.
+End of the Job.

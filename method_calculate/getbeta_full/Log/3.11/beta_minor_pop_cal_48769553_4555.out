@@ -1,0 +1,2 @@
+Processing: Trait: logTG, Target Population: SAS, Chromosome: 1, phi: auto
+slurmstepd: error: *** JOB 48796738 ON r813u09n02 CANCELLED AT 2025-03-19T17:58:37 DUE TO TIME LIMIT ***

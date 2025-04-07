@@ -1,0 +1,54 @@
+Processing: Trait: Height, Target Population: EUR, Chromosome: 10, phi: auto
+
+
+--ref_dir=/gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3
+--bim_prefix=/gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal
+--sst_file=['/gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/Height_EUR/10_JointPRS_baselineLD_v2.3_Annot_9.txt']
+--rho_cons=[1.0, 1.0, 1.0, 1.0, 1.0]
+--a=1
+--b=0.5
+--phi=None
+--n_gwas=[251955]
+--pop=['EUR']
+--n_iter=1000
+--n_burnin=500
+--thin=5
+--out_dir=/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_Height/tar_EUR/baselineLD_v2.3_Annot_9
+--out_name=Height_EUR_JointPRS_baselineLD_v2.3_Annot_9
+--chrom=['10']
+--meta=FALSE
+--seed=None
+
+
+*** only 1 discovery population detected ***
+
+##### process chromosome 10 #####
+... parse reference file: /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... 390027 SNPs on chromosome 10 read from /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... parse bim file: /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... 673147 SNPs on chromosome 10 read from /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... parse EUR sumstats file: /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/Height_EUR/10_JointPRS_baselineLD_v2.3_Annot_9.txt ...
+... 20160 SNPs read from /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/Height_EUR/10_JointPRS_baselineLD_v2.3_Annot_9.txt ...
+... 20065 common SNPs in the EUR reference, EUR sumstats, and validation set ...
+... parse EUR reference LD on chromosome 10 ...
+... align reference LD on chromosome 10 across populations ...
+... 20065 valid SNPs across populations ...
+... MCMC ...
+--- iter-100 ---
+--- iter-200 ---
+--- iter-300 ---
+--- iter-400 ---
+--- iter-500 ---
+--- iter-600 ---
+--- iter-700 ---
+--- iter-800 ---
+--- iter-900 ---
+--- iter-1000 ---
+... Estimated global shrinkage parameter: 3.62e-04 ...
+... Estimated Correlation Matrix for chrom 10 is : ...
+[[1.]]
+... Done ...
+
+
+Job took 0.18 hours to complete.
+End of the Job.

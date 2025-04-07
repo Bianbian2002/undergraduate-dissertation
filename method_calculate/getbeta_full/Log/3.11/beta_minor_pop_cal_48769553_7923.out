@@ -1,0 +1,40 @@
+Processing: Trait: BrC, Target Population: EAS, Chromosome: 3, phi: auto
+
+
+--ref_dir=/gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3
+--bim_prefix=/gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal
+--sst_file=['/gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BrC_EAS/auxiliary_pop_EUR/3_JointPRS_baselineLD_v2.3_Annot_16.txt', '/gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BrC_EAS/3_JointPRS_baselineLD_v2.3_Annot_16.txt']
+--rho_cons=[1.0, 1.0, 1.0, 1.0, 1.0]
+--a=1
+--b=0.5
+--phi=None
+--n_gwas=[245620, 27138]
+--pop=['EUR', 'EAS']
+--n_iter=2000
+--n_burnin=1000
+--thin=5
+--out_dir=/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_BrC/tar_EAS/baselineLD_v2.3_Annot_16
+--out_name=BrC_EUR_EAS_PRScsx_baselineLD_v2.3_Annot_16
+--chrom=['3']
+--meta=FALSE
+--seed=None
+
+
+*** 2 discovery populations detected ***
+
+##### process chromosome 3 #####
+... parse reference file: /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... 537639 SNPs on chromosome 3 read from /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... parse bim file: /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... 953594 SNPs on chromosome 3 read from /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... parse EUR sumstats file: /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BrC_EAS/auxiliary_pop_EUR/3_JointPRS_baselineLD_v2.3_Annot_16.txt ...
+Traceback (most recent call last):
+  File "/gpfs/gibbs/pi/zhao/zb222/JointPRS_original/JointPRS.py", line 132, in <module>
+    main()
+  File "/gpfs/gibbs/pi/zhao/zb222/JointPRS_original/JointPRS.py", line 115, in main
+    sst_dict[pp] = parse_genet.parse_sumstats(ref_dict, vld_dict, param_dict['sst_file'][pp], param_dict['pop'][pp], param_dict['n_gwas'][pp])
+  File "/gpfs/gibbs/pi/zhao/zb222/JointPRS_original/parse_genet.py", line 74, in parse_sumstats
+    if ll[1] in ATGC and ll[2] in ATGC:
+IndexError: list index out of range
+Job took 0.00 hours to complete.
+End of the Job.

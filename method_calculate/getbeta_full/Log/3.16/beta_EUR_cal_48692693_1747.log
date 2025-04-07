@@ -1,0 +1,54 @@
+Processing: Trait: BMI, Target Population: EUR, Chromosome: 9, phi: auto
+
+
+--ref_dir=/gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3
+--bim_prefix=/gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal
+--sst_file=['/gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BMI_EUR/9_JointPRS_baselineLD_v2.3_Annot_17.txt']
+--rho_cons=[1.0, 1.0, 1.0, 1.0, 1.0]
+--a=1
+--b=0.5
+--phi=None
+--n_gwas=[233634]
+--pop=['EUR']
+--n_iter=1000
+--n_burnin=500
+--thin=5
+--out_dir=/gpfs/gibbs/pi/zhao/zb222/Anotation_pipeline/result/beta/LD_v2.3_panel/trait_BMI/tar_EUR/baselineLD_v2.3_Annot_17
+--out_name=BMI_EUR_JointPRS_baselineLD_v2.3_Annot_17
+--chrom=['9']
+--meta=FALSE
+--seed=None
+
+
+*** only 1 discovery population detected ***
+
+##### process chromosome 9 #####
+... parse reference file: /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... 326647 SNPs on chromosome 9 read from /gpfs/gibbs/pi/zhao/zb222/reference/BaselineLD_v2.3_hm3/snpinfo_mult_1kg_hm3 ...
+... parse bim file: /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... 578099 SNPs on chromosome 9 read from /gpfs/gibbs/pi/zhao/zhao-data/yy496/ukbb_v3/ukbb3_neale/ukbb3_imp_nealqc/tmp_Ukb_imp_v3_neal.bim ...
+... parse EUR sumstats file: /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BMI_EUR/9_JointPRS_baselineLD_v2.3_Annot_17.txt ...
+... 3549 SNPs read from /gpfs/gibbs/pi/zhao/zb222/Data/summary_data/PRS-CSx/BMI_EUR/9_JointPRS_baselineLD_v2.3_Annot_17.txt ...
+... 3529 common SNPs in the EUR reference, EUR sumstats, and validation set ...
+... parse EUR reference LD on chromosome 9 ...
+... align reference LD on chromosome 9 across populations ...
+... 3529 valid SNPs across populations ...
+... MCMC ...
+--- iter-100 ---
+--- iter-200 ---
+--- iter-300 ---
+--- iter-400 ---
+--- iter-500 ---
+--- iter-600 ---
+--- iter-700 ---
+--- iter-800 ---
+--- iter-900 ---
+--- iter-1000 ---
+... Estimated global shrinkage parameter: 1.33e-04 ...
+... Estimated Correlation Matrix for chrom 9 is : ...
+[[1.]]
+... Done ...
+
+
+Job took 0.04 hours to complete.
+End of the Job.

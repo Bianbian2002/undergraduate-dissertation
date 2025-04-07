@@ -1,0 +1,21 @@
+Processing group: group1
+Traits: HDL
+Populations: EAS SAS AFR AMR
+There are 1 annotations selected for trait:HDL; pop:EAS
+There are 65 annotations selected for trait:HDL; pop:SAS
+There are 5 annotations selected for trait:HDL; pop:AFR
+There are 19 annotations selected for trait:HDL; pop:AMR
+Processing group: group2
+Traits: Height BMI T2D BrC
+Populations: EAS AFR
+There are 3 annotations selected for trait:Height; pop:EAS
+There are 12 annotations selected for trait:Height; pop:AFR
+There are 2 annotations selected for trait:BMI; pop:EAS
+There are 18 annotations selected for trait:BMI; pop:AFR
+There are 10 annotations selected for trait:T2D; pop:EAS
+There are 13 annotations selected for trait:T2D; pop:AFR
+There are 18 annotations selected for trait:BrC; pop:EAS
+There are 3 annotations selected for trait:BrC; pop:AFR
+Total number of jobs: 3718
+Submitted batch job 48953967
+Submitted beta calculation array job with 3718 tasks.
